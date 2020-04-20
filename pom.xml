@@ -9,7 +9,7 @@
 
 
 	<build>
-		<finalName>Tomcat8.5.50</finalName>
+		<finalName>effectivejava</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
